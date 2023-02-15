@@ -1,0 +1,5 @@
+99101215381,matematyka,4,odpowiedz ustna
+99101215381,matematyka,3.5,sprawdzian
+99120217386,matematyka,4.5,sprawdzian
+99081627482,fizyka,3,kartkowka
+99101215381,fizyka,3.5,odpowiedz ustna
